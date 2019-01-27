@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "190203628511",
+    "firebase_url": "https://theabacus-19bc0.firebaseio.com",
+    "project_id": "theabacus-19bc0",
+    "storage_bucket": "theabacus-19bc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190203628511:android:0fa00faca329ecad",
+        "android_client_info": {
+          "package_name": "huxy.fcm.com.newfcmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190203628511-kr5ircuc928c8a7sgk1ivfpo1i18joce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "huxy.fcm.com.newfcmapp",
+            "certificate_hash": "f8197788599c9be05cfe2b7f94f86ec5b312f4df"
+          }
+        },
+        {
+          "client_id": "190203628511-nuc6nfvap80pn8u5sj54joniltnk5v5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-lP3o3oJqz8aSyKQUabROec9Pp02u4lA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190203628511-nuc6nfvap80pn8u5sj54joniltnk5v5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
